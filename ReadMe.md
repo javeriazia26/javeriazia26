@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Computer Science undergraduate passionate about Database Management Systems, Python, Flask, Web Development, and Cybersecurity. I enjoy building practical projects, learning new technologies, and developing secure, efficient software solutions.
+👋 Computer Science Student passionate about Database Management Systems, Python, Flask, Web Development, and Cybersecurity. I enjoy building practical projects, learning new technologies, and developing secure, efficient software solutions.
 
 
 ## 🌐 Socials:
